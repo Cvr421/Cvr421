@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Chandravijay Rai
 #### Curious to Learn and Contribute to Open Source
-![Curious to Learn and Contribute to Open Source](https://www.ortelius.io/images/opensourcesoftware.jpg)
+
+![opensourcesoftware](https://user-images.githubusercontent.com/82499697/193819768-1e5c9e8b-abe4-442d-951f-34a8f519f137.jpg)
 
 
 Student at Unacademy 
@@ -16,8 +17,9 @@ Skills: C++ | REACT | JavaScript | Nodejs | HTML | CSS | Kubernetes | Docker
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Cvr421)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/cvrai//)  
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Cvr421)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cvr421)](https://github.com/anuraghazra/github-readme-stats)
