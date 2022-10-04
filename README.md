@@ -22,4 +22,4 @@ Skills: C++ | REACT | JavaScript | Nodejs | HTML | CSS | Kubernetes | Docker
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cvr421)](https://github.com/anuraghazra/github-readme-stats)
+
