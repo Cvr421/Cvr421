@@ -20,4 +20,4 @@ Skills: C++ | REACT | JavaScript | Nodejs | HTML | CSS | Kubernetes | Docker
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Cvr421)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Chandravijay Rai GitHub stats](https://github-readme-stats.vercel.app/api?username=Cvr421)](https://github.com/Cvr421/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cvr421)](https://github.com/anuraghazra/github-readme-stats)
