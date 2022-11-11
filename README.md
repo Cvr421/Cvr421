@@ -8,7 +8,7 @@ Student at Unacademy
 Backend_development | Frontend End | C++(Major skill) | Javascript | React | Node.js | DSA
 Contributing to Open source
 
-Skills: C++ | REACT | JavaScript | Nodejs | HTML | CSS | firebase | MongoDB | Kubernetes | Docker
+Skills: C++ | REACT | JavaScript | Nodejs | HTML | CSS | firebase | MongoDB | Tailwind | Next.js | Kubernetes | Docker
 
 - 🔭 I’m currently working on KubeScape Open Source  
 - 🌱 I’m currently learning AlgoExpert DSA  Course 
