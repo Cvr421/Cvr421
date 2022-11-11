@@ -16,7 +16,7 @@ Skills: C++ | REACT | JavaScript | Nodejs | HTML | CSS | firebase | MongoDB | Ta
 -  Preparing for the kubernetes application developer founded by linux foundation
 -  Recently Attended the kubecon virtual Event
 ### Personal Project
- - Netflix_replica (Reactjs | javascript | Redux | firebase | Stripe payment Gatway | TMDB api )
+ - Netflix_replica (Reactjs | javascript | Redux | firebase | Stripe payment Gatway | TMDB api | Google Authentication )
  - Instagram_replica (Reactjs | Nextjs | Javascript | Recoil | firebase | Tailwind CSS | Google Authentication )
  - Twitter ( Javascript | Nodejs | HTML | CSS )
  - Tesla-clone (Reactjs | javascript | HTML | CSS)
