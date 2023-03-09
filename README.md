@@ -10,9 +10,9 @@ Contributing to Open source
 
 Skills: C++ | REACT | JavaScript | Nodejs | HTML | CSS | firebase | MongoDB | Tailwind | Next.js | Kubernetes | Docker
 
-- 🔭 I’m currently working on KubeScape Open Source  
-- 🌱 I’m currently learning AlgoExpert DSA  Course 
-- 👯 I’m looking to collaborate on Open Source And Cloud Native Foundation   
+- 🔭 Certification of Docker and Kubernetes By KodeKloud
+- 🌱  AlgoExpert DSA Certified
+- 👯 I’m looking to Learn and Controbute in Open Source Community   
 -  Preparing for the kubernetes application developer founded by linux foundation
 -  Recently Attended the kubecon virtual Event
 ### Personal Project
