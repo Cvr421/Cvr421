@@ -1,7 +1,8 @@
 ### Hi there 👋, I am Chandravijay Rai
 #### Curious to Learn and Contribute to Open Source
 
-![opensourcesoftware](https://user-images.githubusercontent.com/82499697/193819768-1e5c9e8b-abe4-442d-951f-34a8f519f137.jpg)
+![opensourcesoftware](![@Chandravijay (1)](https://github.com/Cvr421/Cvr421/assets/82499697/f84cf48c-4fc2-476a-8abd-7b461f705a63)
+)
 
 
 Student at Unacademy 
