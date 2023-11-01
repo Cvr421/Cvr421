@@ -5,8 +5,8 @@
    <a href= "https://meshery.layer5.io/user/4a508c2f-5bdf-41ba-b00f-8b81953b86e0?tab=badges">
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
   </a >
-#### Curious to Learn and Contribute to Open Source
 
+#### Curious to Learn and Contribute to Open Source
 ![@Chandravijay (1)](https://github.com/Cvr421/Cvr421/assets/82499697/f84cf48c-4fc2-476a-8abd-7b461f705a63)
 
 
