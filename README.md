@@ -28,11 +28,11 @@ Contributing to Open source
 -   Attended the kubecon virtual Event
 
 ### Personal Project
- - Netflix_replica (Reactjs | javascript | Redux | firebase | Stripe payment Gatway | TMDB api | Google Authentication )
- - Instagram_replica (Reactjs | Nextjs | Javascript | Recoil | firebase | Tailwind CSS | Google Authentication )
- - Twitter ( Javascript | Nodejs | HTML | CSS )
- - Tesla-clone (Reactjs | javascript | HTML | CSS)
- - Disney-clone (Rectjs | javascript | firebase | HTML | CSS)
+ - AI-Powered Chat Interface with Ollama (Open-Source) | Next.js, Tailwind CSS, Node.js,WebSocket
+ - Disease Prediction HEART-DIABETES : AI/ML | Python, Javascript, React, GitHub
+ - Zoomeet - Video Calling Application | Javascript, Nodejs, Nextjs, Clerk, Getstream, Shadcn, Tailwind Css
+ - GetDoctor Booking-service | Javascript, Reactjs, Nodejs, MongoDB, Redux, Express.js, GitHub
+   
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Cvr421)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cvrai/)  
