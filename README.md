@@ -1,48 +1,138 @@
-### Hi there 👋, I am Chandravijay Rai
- <a href= "https://meshery.layer5.io/user/4a508c2f-5bdf-41ba-b00f-8b81953b86e0?tab=badges">
-    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
-  </a >
-   <a href= "https://meshery.layer5.io/user/4a508c2f-5bdf-41ba-b00f-8b81953b86e0?tab=badges">
-    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
-  </a >
-  <a href= "https://meshery.layer5.io/user/4a508c2f-5bdf-41ba-b00f-8b81953b86e0?tab=badges">
-    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt = "Hacktoberfest Contributor" />
-  </a >
+<!-- ---------- HEADER ---------- -->
 
-#### Curious to Learn and Contribute to Open Source
-![@Chandravijay (1)](https://github.com/Cvr421/Cvr421/assets/82499697/f84cf48c-4fc2-476a-8abd-7b461f705a63)
+<h1 align="center">👋 Hi, I'm <strong>Chandravijay Rai</strong></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Software+%2F+AI+Product+Engineer;Full-Stack+Developer;AI+%7C+ML+%7C+DevOps+Enthusiast;Open+Source+Contributor" />
+</p>
+
+<p align="center">
+  <a href="https://meshery.layer5.io/user/4a508c2f-5bdf-41ba-b00f-8b81953b86e0"><img width="110" src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png"></a>
+  <a href="https://meshery.layer5.io/user/4a508c2f-5bdf-41ba-b00f-8b81953b86e0"><img width="110" src="https://badges.layer5.io/assets/badges/first-design/first-design.png"></a>
+  <a href="https://meshery.layer5.io/user/4a508c2f-5bdf-41ba-b00f-8b81953b86e0"><img width="110" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png"></a>
+</p>
+
+---
+
+<!-- ---------- ABOUT ME ---------- -->
+
+## 🌟 About Me
+
+I am a **Software + AI Product Engineer** focused on building **LLM applications**,  
+high-performance **full-stack systems**, and **cloud-native DevOps pipelines**.
+
+I love turning ideas into **production-ready, scalable, elegant products**.  
+My experience spans **AI, Web Development, MLOps, Cloud, and Open Source**.
+
+💡 **My goal:** Build products that solve real problems with AI automation & engineering.
+
+---
+
+<!-- ---------- SKILLS ---------- -->
+
+## 🧠 Tech Expertise
+
+<p align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css&theme=light" />
+
+<!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux&theme=light" />
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=light" />
+
+<!-- DevOps -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,linux&theme=light" />
+
+<!-- AI Tools -->
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" />
+
+</p>
+
+---
+
+<!-- ---------- EXPERIENCE ---------- -->
+
+## 💼 Professional Experience
+
+### **🚀 Founder & Software Developer — MetaAge**  
+*2024 – 2025*  
+- Built AI age-prediction platform using **computer vision + ML**  
+- Architected Next.js + Node.js infra with **99.9% uptime CI/CD**  
+- Improved UI responsiveness by **30%**, boosted user retention  
+- Integrated secure image-analysis pipelines for face-based AI
+
+### **☁ Linux Foundation (LFX) – Cloudforet.io**  
+*2023 – 2024*  
+- Built enterprise CI/CD pipelines using **Docker, Kubernetes & Helm**  
+- Improved APIs by **25%** via gRPC optimization  
+- Managed multi-cloud platform orchestration
+
+### **🌐 Layer5 – Open Source Developer**  
+*2023*  
+- Built high-perf React components improving speed by **25%**  
+- Reviewed & merged 50+ PRs for Meshery  
+- Increased engagement by **15%** through technical writing  
+- Got **official Meshery Catalog design** approved
+
+---
+
+<!-- ---------- PROJECTS ---------- -->
+
+## 🔥 Highlighted Projects
+
+### **🩺 OpenAccess – AI Healthcare for Rural India**
+LLM-powered maternal/infant diagnostics, TB detection, DocGPT, surveillance.  
+**Stack:** Next.js, Llama, Cerebras, Docker, ML
+
+---
+
+### **🧠 Ollama Chat – Local AI Chat Interface**
+Local ChatGPT-like interface with streaming, multi-model switch, history.  
+**Stack:** Next.js, Node.js, WebSockets, Docker
+
+---
+
+### **❤️ Heart & Diabetes Prediction (ML)**
+ML system achieving **90% accuracy** with RF, NN, DT.  
+**Stack:** Python, ML, React
+
+---
+
+### **📹 Zoomeet – Video Conferencing App**
+Real-time rooms, recording, screen sharing.  
+**Stack:** Next.js, GetStream, Clerk, ShadCN, Tailwind
+
+---
+
+### **🏥 GetDoctor – Medical Booking System**
+Role-based dashboard, appointment workflows, notifications.  
+**Stack:** MERN, Redux, MongoDB
+
+---
 
 
+<!-- ---------- CONTACT ---------- -->
 
-Student at Unacademy 
-Backend_development | Frontend End | C++(Major skill) | Javascript | React | Node.js | DSA
-Contributing to Open source
+## 🤝 Let's Connect
 
-<a><p align="center">
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-FF6C37?style=for-the-badge&logo=insomnia&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-</p></a>
+<p align="center">
+<a href="https://github.com/Cvr421">
+  <img height="40" style="background:⚪; padding:4px; border-radius:6px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
+</a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cvrai/">
+    <img height="40" style="background:🟦; padding:4px; border-radius:6px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+  </a>
+</p>
 
-- 🔭 Certification of Docker and Kubernetes ,CKAD  By KodeKloud
-- 🌱  AlgoExpert DSA Certified
-- 👯 I’m looking to Learn and Controbute in Open Source Community   
--   Attended the kubecon virtual Event
+---
 
-### Personal Project
- - AI-Powered Chat Interface with Ollama (Open-Source) | Next.js, Tailwind CSS, Node.js,WebSocket
- - Disease Prediction HEART-DIABETES : AI/ML | Python, Javascript, React, GitHub
- - Zoomeet - Video Calling Application | Javascript, Nodejs, Nextjs, Clerk, Getstream, Shadcn, Tailwind Css
- - GetDoctor Booking-service | Javascript, Reactjs, Nodejs, MongoDB, Redux, Express.js, GitHub
-   
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Cvr421)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cvrai/)  
-
-<!-- <a href="https://github.com/Cvr421"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Cvr421&layout=compact&hide=html%&bg_color=3450cb&title_color=fff&text_color=020202" alt="Cvr" width="400"/>
- 
- <img align="left" src="/metrics.plugin.isocalendar.svg" alt="" width="400" />
- 
- </a> -->
-
+<p align="center">
+  ⭐ <strong>Thanks for visiting — feel free to explore my projects!</strong> ⭐
+</p>
 
 
 
