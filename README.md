@@ -120,11 +120,14 @@ Role-based dashboard, appointment workflows, notifications.
 
 <p align="center">
 <a href="https://github.com/Cvr421">
-  <img height="40" style="background:⚪; padding:4px; border-radius:6px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
+ <img height="40" src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" />
 </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/cvrai/">
-    <img height="40" style="background:🟦; padding:4px; border-radius:6px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/cvrai/">
+  <img height="40" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />
+</a>
+
   </a>
 </p>
 
