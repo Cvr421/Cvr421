@@ -53,7 +53,7 @@ My experience spans **AI, Web Development, MLOps, Cloud, and Open Source**.
 
 ---
 
-<!-- ---------- EXPERIENCE ---------- -->
+<!-- ---------- EXPERIENCE 
 
 ## 💼 Professional Experience
 
@@ -77,9 +77,9 @@ My experience spans **AI, Web Development, MLOps, Cloud, and Open Source**.
 - Increased engagement by **15%** through technical writing  
 - Got **official Meshery Catalog design** approved
 
----
+--- -->
 
-<!-- ---------- PROJECTS ---------- -->
+<!-- ---------- PROJECTS
 
 ## 🔥 Highlighted Projects
 
@@ -109,9 +109,11 @@ Real-time rooms, recording, screen sharing.
 
 ### **🏥 GetDoctor – Medical Booking System**
 Role-based dashboard, appointment workflows, notifications.  
-**Stack:** MERN, Redux, MongoDB
+ **Stack:** MERN, Redux, MongoDB 
 
----
+----->
+
+
 
 
 <!-- ---------- CONTACT ---------- -->
