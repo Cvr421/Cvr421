@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm <strong>Chandravijay Rai</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Software+%2F+AI+Product+Engineer;Full-Stack+Developer;AI+%7C+ML+%7C+DevOps+Enthusiast;Open+Source+Contributor" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+LLM+%26+RAG+Systems+%7C+Full-Stack+Developer" />
 </p>
 
 <p align="center">
