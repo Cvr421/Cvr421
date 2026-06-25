@@ -35,7 +35,7 @@ My experience spans **AI, Web Development, MLOps, Cloud, and Open Source**.
 <p align="center">
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=light" />
 
 <!-- Frameworks -->
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux&theme=light" />
@@ -47,7 +47,7 @@ My experience spans **AI, Web Development, MLOps, Cloud, and Open Source**.
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,linux&theme=light" />
 
 <!-- AI Tools -->
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" />
+<img src="https://skillicons.dev/icons?i=langchain,pinecone,langgraph,fastapi,prismaorm,redis,grpc,tensorflow,pytorch&theme=light" />
 
 </p>
 
